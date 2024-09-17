@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1726255529828,
+    "nome": "Gel de limpeza facial - líquido",
+    "valor": 60.7,
+    "quantidade": 15,
+    "img_produto": "/uploads/1726255529806.jpg",
+    "fabricante": "Vichy"
+  },
+  {
+    "id": 1726255904103,
+    "nome": "Shampoo e Condionador",
+    "valor": 167.97,
+    "quantidade": 8,
+    "img_produto": "/uploads/1726255904101.jpg",
+    "fabricante": "Eudora"
+  },
+  {
+    "id": 1726591297189,
+    "nome": "Base líquida Eudora",
+    "fabricante": "Eudora",
+    "valor": 59.9,
+    "quantidade": 15,
+    "img_produto": "/uploads/1726591297187.webp"
+  },
+  {
+    "id": 1726591809833,
+    "nome": "Perfume Obsessed",
+    "fabricante": "Wepink",
+    "valor": 275.8,
+    "quantidade": 52,
+    "img_produto": "/uploads/1726591821192.jpg"
+  },
+  {
+    "id": 1726591884107,
+    "nome": "Serúm Primer",
+    "fabricante": "Maxlove",
+    "valor": 15.99,
+    "quantidade": 250,
+    "img_produto": "/uploads/1726591884107.webp"
+  },
+  {
+    "id": 1726591922764,
+    "nome": "Gloss Líquido Cor Rosa",
+    "fabricante": "Maxlove",
+    "valor": 9.8,
+    "quantidade": 154,
+    "img_produto": "/uploads/1726591922762.jpg"
+  },
+  {
+    "id": 1726592047921,
+    "nome": "Perfume Egeo Choc Berry",
+    "fabricante": "Oboticario",
+    "valor": 189.9,
+    "quantidade": 50,
+    "img_produto": "/uploads/1726592047918.jpg"
+  },
+  {
+    "id": 1726592091433,
+    "nome": "Body Splash",
+    "fabricante": "Oboticario",
+    "valor": 79.9,
+    "quantidade": 45,
+    "img_produto": "/uploads/1726592091433.jpg"
+  },
+  {
+    "id": 1726592151591,
+    "nome": "Hidratante e Sabonete Corporal",
+    "fabricante": "Natura",
+    "valor": 69.9,
+    "quantidade": 14,
+    "img_produto": "/uploads/1726592151591.jpg"
+  },
+  {
+    "id": 1726592199648,
+    "nome": "Perfume Mamãe e Bebê",
+    "fabricante": "Natura",
+    "valor": 59.9,
+    "quantidade": 250,
+    "img_produto": "/uploads/1726592199647.jpg"
+  },
+  {
+    "id": 1726592266248,
+    "nome": "Protetor Solar",
+    "fabricante": "Natura",
+    "valor": 190.5,
+    "quantidade": 230,
+    "img_produto": "/uploads/1726592266247.jpg"
+  },
+  {
+    "id": 1726592404873,
+    "nome": "Batom Matte",
+    "fabricante": "Mari Maria Makeup",
+    "valor": 34.9,
+    "quantidade": 75,
+    "img_produto": "/uploads/1726592404869.png"
+  }
+]
